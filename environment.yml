@@ -1,0 +1,9 @@
+name: m-learn
+channels:
+- default
+dependencies:
+- python=3.8
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
